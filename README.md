@@ -1,6 +1,7 @@
 # git-practice
-こ�?リポジトリはGit動画講座用です�?
-ローカルリポで変更
-rebase-practiceブランチで更新??ebase用??
-rebase pull用
-stash練�
+ã“ã?ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼?
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã§å¤‰æ›´
+rebase-practiceãƒ–ãƒ©ãƒ³ãƒã§æ›´æ–°??ebaseç”¨??
+rebase pullç”¨
+stashç·´ç¿
+stash練習（トラック済み）
